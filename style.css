@@ -1,0 +1,82 @@
+nav {
+    border-bottom-style: solid;
+    border-bottom-color: darkgreen;
+    
+}
+
+span {
+    background-color: green;
+    padding: 30px;
+    font-size: 70px;
+    margin: 0px;
+    margin-left: 50px;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+    float: left;
+    padding: 10px;
+}
+
+.container {
+    background-color: lightgrey;
+    margin-left: 75px;
+    margin-top: 0px;
+    height: 700px;
+    
+}
+
+.col-md-9 {
+    background-color: white;
+    position: relative;
+    top: 25px;
+    margin-left: 45px;
+    border-style: solid;
+    border-color: white;
+    border-width: 25px;
+}
+
+h2 {
+    margin-left: 25px;
+    
+}
+
+.col-md-6 {
+    background-color: white;
+    position: relative;
+    top: 25px;
+    margin-left: 45px;
+    border-style: solid;
+    border-color: white;
+    border-width: 25px;
+}
+
+.card-text {
+    text-align: center;
+    color: white;
+    background-color: darkgreen;
+    font-size: 20px;
+    width: auto;
+    position: relative;
+    top: -100px;
+    margin: 0px;
+    padding: 20px;
+}
+.card-img-overlay {
+    float: left;
+    margin: 0mm;
+    padding: 0px;
+    
+}
+.card-title {
+    text-align: center;
+    color: white;
+    background-color: darkgreen;
+    font-size: 20px;
+    width: 150;
+    position: relative;
+    top: 115px;
+    margin: 0px;
+    padding: 20px;
+}
